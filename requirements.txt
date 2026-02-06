@@ -1,0 +1,7 @@
+streamlit
+geopandas
+pandas
+numpy
+plotly
+shapely
+xlsxwriter
